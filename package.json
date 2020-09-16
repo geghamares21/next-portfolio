@@ -1,0 +1,24 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geghamares21/next-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geghamares21/next-portfolio/issues"
+  },
+  "homepage": "https://github.com/geghamares21/next-portfolio#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
